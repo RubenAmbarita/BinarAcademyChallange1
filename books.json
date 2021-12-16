@@ -10,5 +10,11 @@
     "page": 200,
     "Authority": "Cheng lu",
     "Description": "Buku tentang fataliti"
+  },
+  {
+    "name": "Rudi Tabuti",
+    "page": 100,
+    "Authority": "li liu lu",
+    "Description": "Buku tentang kartun"
   }
 ]
