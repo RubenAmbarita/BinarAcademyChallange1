@@ -16,5 +16,17 @@
     "page": 100,
     "Authority": "li liu lu",
     "Description": "Buku tentang kartun"
+  },
+  {
+    "name": "Rudi",
+    "page": 3400,
+    "Authority": "lololo",
+    "Description": "Buku tentang perjalanan rudi"
+  },
+  {
+    "name": "Reptil",
+    "page": 420,
+    "Authority": "erlungga",
+    "Description": "Buku tentang perjalanan reptil katak"
   }
 ]
