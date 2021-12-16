@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John And Lee Books",
+    "page": 400,
+    "Authority": "Leu Cheng La",
+    "Description": "Buku tentang kungfu"
+  },
+  {
+    "name": "Lee Books",
+    "page": 200,
+    "Authority": "Cheng lu",
+    "Description": "Buku tentang fataliti"
+  }
+]
