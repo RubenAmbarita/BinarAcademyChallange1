@@ -28,5 +28,11 @@
     "page": 420,
     "Authority": "erlungga",
     "Description": "Buku tentang perjalanan reptil katak"
+  },
+  {
+    "name": "fauna",
+    "page": 410,
+    "Authority": "yuka",
+    "Description": "Buku tentang perjalanan fauna"
   }
 ]
